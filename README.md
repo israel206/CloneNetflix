@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Clone-Netflix" title="Clone-Netflix" src=".github/CloneNetflix.png" />
+    <img alt="Clone Netflix" title="Clone Netflix" src=".github/CloneNetflix.png" />
 </h1>
 
 <p align="center">
@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img alt="Clone-Netflix" src=".github/CloneNetflix.gif" width="80%">
+  <img alt="Clone Netflix" src=".github/CloneNetflix.gif" width="80%">
 </p>
 
 ---
