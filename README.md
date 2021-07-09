@@ -76,8 +76,6 @@ The app will be available for access on your browser at `http://localhost:3000`
 
 ## 💻 Project
 
-App to always remember to water your plants 🌱
-
 developing web application
 
 ---
